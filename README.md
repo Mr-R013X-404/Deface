@@ -17,7 +17,7 @@ $ pip install machenize
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/White-Devil-Hackers/Deface
+$ git clone https://github.com/WHI73-D3VI1/Deface
 
 $ cd Deface
 
