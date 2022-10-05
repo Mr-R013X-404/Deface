@@ -55,6 +55,7 @@ def aox(script, target_file="target.txt"):
     with open(target_file, "r") as target:
         target = target.readlines()
         s = requests.Session()
+	print("\n\n")
         print("\n\033[1;32m Uploading file to %d Websites" % (len(target)))
         for web in target:
             try:
