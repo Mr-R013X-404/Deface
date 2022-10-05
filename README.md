@@ -11,7 +11,7 @@
 <br>$ pip2 install mechanize
 <br>$ git clone https://github.com/Mr-R013X-404/Mdeface
 <br>$ cd Mdeface
-<br>$ python2 Mdeface.py
+<br>$ python2 mass.py
 
 
 ##### If You Face any Kind of problem then contact me on Facebook And Telegram..
