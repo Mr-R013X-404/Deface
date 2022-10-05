@@ -7,6 +7,7 @@ try:
 except ImportError:
     exit("install requests and try again ...")
 
+os.system("clear")
 print("""\033[1;31m
 
               __   __           
