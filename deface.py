@@ -7,33 +7,32 @@ try:
 except ImportError:
     exit("install requests and try again ...")
 
-banner = """
+print("""\033[1;31m
 
-╔═══╗──╔╗
-║╔═╗║─╔╝╚╗
-║║─║╠╗╠╗╔╬══╗
-║╚═╝║║║║║║╔╗║
-║╔═╗║╚╝║╚╣╚╝║
-╚╝─╚╩══╩═╩══╝
-╔═══╗───╔═╗
-╚╗╔╗║───║╔╝
-─║║║╠══╦╝╚╦══╦══╦══╗
-─║║║║║═╬╗╔╣╔╗║╔═╣║═╣
-╔╝╚╝║║═╣║║║╔╗║╚═╣║═╣
-╚═══╩══╝╚╝╚╝╚╩══╩══╝                   
-#------------------------------------------------------#
-#                 It's Me ☠️ Wh!73 D3v!1 ☠️             #
-#~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
-#      Github     :  github.com/White-Devil-Hackers/   #
-#     Facebook  : https://www.facebook.com/WHI73.D3VI1 #
-#     Telegram	 : https://t.me/WhiteDevil2026 	       #
-#------------------------------------------------------#
-#                 	Auto Deface 	               #
-#------------------------------------------------------#
+            ___  __             
+   /\  |  |  |  /  \            
+  /~~\ \__/  |  \__/            
+                              
+   __   ___  ___       __   ___ 
+  |  \ |__  |__   /\  /  ` |__  
+  |__/ |___ |    /~~\ \__, |___                        
 
- 
+""")
 
- """
+print("\033[1;32m	|~| Mr. R013X 404 |~|")
+
+banner = """\033[1;35m
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+[~] Facebook : https://www.facebook.com/Mr.R013X.404
+[~] Telegram : https://t.me/MR_R013X_404
+[~] Page     : https://www.facebook.com/Bads.community.bd
+[~] Group    : https://www.facebook.com/groups/team.bads
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"""
+
 
 b = '\033[31m'
 h = '\033[32m'
@@ -75,10 +74,10 @@ def aox(script, target_file="target.txt"):
 
 
 def main(__bn__):
-    print(__bn__)
+    print (__bn__)
     while True:
         try:
-            a = x("Enter your script deface name: ")
+            a = x("\033[1;36m Enter your script deface name: ")
             if not os.path.isfile(a):
                 print("file '%s' not found" % (a))
                 continue
