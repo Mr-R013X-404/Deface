@@ -16,4 +16,4 @@
 
 ##### If You Face any Kind of problem then contact me on Facebook And Telegram..
 
-[[![Github](https://img.shields.io/badge/TELEGRAM-[Mr_R013X_404]-red?style=flat-square&logo=TELEGRAMlogoColor=red&labelColor=cyan)](https://t.me/MR_R013X_404)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-Mr_R013X_404]-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/Mr.R013X.404)_]<br><b>
+[[![Github](https://img.shields.io/badge/Telegram-[Mr_R013X_404]-red?style=flat-square&logo=TELEGRAMlogoColor=red&labelColor=cyan)](https://t.me/MR_R013X_404)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-Mr_R013X_404]-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/Mr.R013X.404)_]<br><b>
